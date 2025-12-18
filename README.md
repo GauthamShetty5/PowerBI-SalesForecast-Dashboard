@@ -38,7 +38,7 @@ The project uses structured sales dataset containing:
 - Product categories  
 - Regional information  
 
-The dataset is included in the `dataset` file of this repository.
+The dataset is included in the `SuperStore_Sales_Dataset.csv` file of this repository.
 
 ---
 
