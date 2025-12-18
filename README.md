@@ -38,7 +38,7 @@ The project uses structured sales dataset containing:
 - Product categories  
 - Regional information  
 
-The dataset is included in the `dataset/` folder of this repository.
+The dataset is included in the `dataset` file of this repository.
 
 ---
 
